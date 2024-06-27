@@ -4,3 +4,4 @@ flask_pymongo
 flask-smorest
 sqlalchemy
 flask-sqlalchemy
+flask-cors
